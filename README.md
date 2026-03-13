@@ -1,7 +1,6 @@
 ### Hi there! ![favicon.ico](https://raw.githubusercontent.com/bastelfreak/bastelfreak/master/favicon.ico)
 
 
-<img align="right" src="https://avatars.githubusercontent.com/bastelfreak" width="260">
 
 I'm Tim, former DevOps Engineer, now Senior IT Automation Consultant and Project
 Committee member for [Vox Pupuli](https://voxpupuli.org).
@@ -19,7 +18,6 @@ Puppet consultant or want me as a speaker at your conference.
 
 Statement from Puppet Inc.:
 
-![mvp statement](https://raw.githubusercontent.com/bastelfreak/bastelfreak/master/MVP.png)
 
 
 <!--
